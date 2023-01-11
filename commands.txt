@@ -1,0 +1,20 @@
+pwd
+ls
+cd
+cd ..
+cd /web/week01/
+cd /
+git diff
+git log
+git push -u origin main
+git commit -m "change"
+git status
+git remote add origin http://url
+git add -ad
+git add .
+git init
+git --version
+git config --global init.defaultBranch main
+git reset filename.txt
+git clone https://url
+git pull

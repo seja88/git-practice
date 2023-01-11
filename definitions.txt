@@ -1,0 +1,16 @@
+Vocabulary
+console - generic term for a text-based interface
+
+command prompt - or cmd is what the default console interface on Windows is called
+
+terminal - is what the default console interface on UNIX based machines (OSX, Linux) is called
+
+shell - or shell command language is a programming language used by bash and other implementations. Also often used as a generic term to describe any console interface.
+
+bash - superset of shell, giving it more capabilities and features
+
+powershell - a more powerful text-based interface for Windows. Also a programming language. Not recommended for webdevelopment due to certain characters being interpreted in a different way from other console interfaces. There are better alternatives.
+
+cmder - a windows program that mainly boosts up the capabilities of command prompt.
+
+iTerm2 - a OSX program that mainly boosts up the capabilities of terminal
