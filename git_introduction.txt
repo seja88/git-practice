@@ -1,0 +1,7 @@
+Committing
+Committing puts the staged files into the local repository and creates one commit - one snapshot of your project's code.
+
+To do a commit:
+
+git commit -m "A description of the commit"
+Important: Always add a commit message, otherwise you won't be able to commit the changes.
